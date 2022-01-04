@@ -1,0 +1,125 @@
+🔥 Course content:
+1. Introduction*************
+00:00:00 Curriculum Walkthrough
+00:07:44 What Order Should You Watch In 00:07:44
+00:10:36 How Im Running My Code
+2. Big O Notation**********************
+00:13:58 Intro to Big O
+00:21:40 Timing Our Code
+00:31:59 Counting Operations
+00:36:36 Visualizing Time Complexities
+00:41:01 Official Intro to Big O
+00:50:59 Simplifying Big O Expressions
+01:00:31 Space Complexity
+01:06:58 Logs and Section Recap
+3. Analyzing Performance of Arrays and Objects**************
+01:15:44 Section Introduction
+01:17:27 The BIG O of Objects
+01:22:59 When are Arrays Slow
+01:29:24 Big O of Array Methods
+4. Problem Solving Approach*****************
+01:35:20 Introduction to Problem Solving
+01:42:28 Step 1 Understand The Problem
+01:50:28 Step 2 Concrete Examples
+01:56:47 Step 3 Break It Down
+02:04:32 Step 4 Solve Or Simplify
+02:15:04 Step 5 Look Back and Refactor
+02:32:02 Recap and Interview Strategies
+5. Problem Solving Patterns*******************
+02:36:14 Intro to Problem Solving Patterns
+02:39:10 Frequency Counter Pattern
+02:54:21 Frequency Counter Anagram Challenge
+02:56:55 Anagram Challenge Solution
+03:03:13 Multiple Pointers Pattern
+03:12:56 Multiple Pointers Count Unique Values Challenge
+03:17:25 Count Unique Values Solution
+03:23:56 Sliding Window Pattern
+03:37:11 Divide And Conquer Pattern
+6. 100 OPTIONAL Challenges************************
+7. Recursion****************************
+03:44:13 Story Time Martin  The Dragon
+03:51:20 Why Use Recursion
+03:57:13 The Call Stack
+04:04:21 Our First Recursive Function
+04:09:32 Our Second Recursive Function
+04:17:26 Writing Factorial Iteratively
+04:19:46 Writing Factorial Recursively
+04:23:02 Common Recursion Pitfalls
+04:28:09 Helper Method Recursion
+04:34:32 Pure Recursion
+8. Searching Algorithms**************************
+04:42:17 Intro to Searching
+04:46:21 Intro to Linear Search
+04:51:08 Linear Search Solution
+04:56:27 Linear Search BIG O
+04:58:22 Intro to Binary Search
+05:04:10 Binary Search PseudoCode
+05:06:50 Binary Search Solution
+05:23:31 Binary Search BIG O
+05:29:41 Naive String Search
+05:34:19 Naive String Search Implementation
+9. Bubble Sort***********************
+05:46:49 Introduction to Sorting Algorithms
+05:55:24 Built-In JavaScript Sorting
+06:00:05 Bubble Sort Overview
+06:07:26 Bubble Sort Implementation
+06:17:24 Bubble Sort Optimization
+06:21:47 Bubble Sort BIG O Complexity
+10. Selection Sort***************************
+06:23:15 Selection Sort Introduction
+06:29:33 Selection Sort Implementation
+06:40:48 Selection Sort Big O Complexity
+11. Insertion Sort****************************
+06:42:28 Insertion Sort Introduction
+06:45:45 Insertion Sort Implementation
+06:56:28 Insertion Sort BIG O Complexity
+14 Comparing Bubble Selection and Insertion Sort
+06:58:52 Comparing Bubble Selection and Insertion Sort
+12. Merge Sort*****************************
+07:04:26 Intro to the Crazier Sorts
+07:10:32 Merge Sort Introduction
+07:15:57 Merging Arrays Intro
+07:21:08 Merging Arrays Implementation
+07:28:03 Writing Merge Sort Part 1
+07:30:25 Writing Merge Sort Part 2
+07:43:02 Merge Sort BIG O Complexity
+13. Quick Sort******************************
+07:49:24 Introduction to Quick Sort
+07:58:24 Pivot Helper Introduction
+08:06:31 Pivot Helper Implementation
+08:14:39 Quick Sort Implementation
+08:23:24 Quick Sort Call Stack Walkthrough
+08:27:41 Quick Sort Big O Complexity
+14. Radix Sort**********************
+08:31:47 Radix Sort Introduction
+08:41:10 Radix Sort Helper Methods
+08:52:20 Radix Sort Pseudocode
+08:56:38 Radix Sort Implementation
+09:07:03 Radix Sort BIG O Complexity
+15. Data Structures Introduction**********************
+09:10:54 Which Data Structure Is The Best
+09:23:33 ESE5 Class Syntax Overview
+09:28:48 Data Structures The Class Keyword
+09:35:25 Data Structures Adding Instance Methods
+09:45:15 Data Structures Adding Class Methods
+16. Singly Linked Lists**********************
+09:52:26 Intro to Singly Linked Lists
+10:00:13 Starter Code and Push Intro
+10:07:36 Singly Linked List Push Solution
+10:12:00 Singly Linked List Pop Intro
+10:18:15 Singly Linked List Pop Solution
+10:25:50 Singly Linked List Shift Intro
+10:27:22 Singly Linked List Shift Solution
+10:30:44 Singly Linked List Unshift Intro
+10:32:19 Singly Linked List Unshift Solution
+10:38:17 Singly Linked List Get Intro
+10:40:49 Singly Linked List Get Solution
+10:44:21 Singly Linked List Set Intro
+10:45:47 Singly Linked List Set Solution
+10:47:58 Singly Linked List Insert Intro
+10:52:25 Singly Linked List Insert Solution
+11:00:15 Singly Linked List Remove Intro
+11:02:11 Singly Linked List Remove Solution
+11:05:26 Singly Linked List Reverse Intro
+11:10:12 Singly Linked List Reverse Solution
+11:19:11 Singly Linked List BIG O Complexity

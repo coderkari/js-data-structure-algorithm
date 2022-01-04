@@ -1,0 +1,121 @@
+🔥 Course content:
+17. Doubly Linked Lists
+00:00:00 Doubly Linked Lists Introduction
+00:04:44 Setting Up Our Node Class
+00:07:45 Push
+00:09:55 Push Solution
+00:10:00 Pop
+00:17:20 Pop Solution
+00:23:44 Shift
+00:26:28 Shift Solution
+00:30:40 Unshift
+00:32:17 Unshift Solution
+00:34:36 Get
+00:38:38 Get Solution
+00:45:43 Set
+00:47:01 Set Solution
+00:49:09 Insert
+00:52:00 Insert Solution
+00:58:48 Remove
+01:01:06 Remove Solution
+01:07:35 Comparing Singly and Doubly Linked Lists
+18. Stacks Queues
+01:12:07 Intro to Stacks
+01:18:26 Creating a Stack with an Array
+01:25:32 Writing Our Own Stack From Scratch
+01:37:05 BIG O of Stacks
+01:39:20 Intro to Queues
+01:43:35 Creating Queues Using Arrays
+01:47:00 Writing Our Own Queue From Scratch
+01:57:24 BIG O of Queues
+19. Binary Search Trees
+01:59:55 Introduction to Trees
+02:06:40 Uses For Trees
+02:13:13 Intro to Binary Trees
+02:19:07 POP QUIZ
+02:20:21 Searching A Binary Search Tree
+02:23:16 Our Tree Classes
+02:26:01 BST Insert
+02:29:51 BST Insert Solution
+02:41:45 BST Find
+02:46:27 BST Find Solution
+02:52:03 Big O of Binary Search Trees
+20. Tree Traversal
+02:58:02 Intro To Tree Traversal
+03:02:52 Breadth First Search Intro
+03:08:44 Breadth First Search Solution
+03:15:05 Depth First PreOrder Intro
+03:20:43 Depth First PreOrder Solution
+03:27:33 Depth First PostOrder Intro
+03:31:35 Depth First PostOrder Solution
+03:34:14 Depth First InOrder Intro
+03:36:22 Depth First InOrder Solution
+03:38:54 When to Use BFS and DFS
+21. Binary Heaps
+03:46:32 Intro to Heaps
+03:54:03 Storing Heaps
+04:01:08 Heap Insert Intro
+04:10:23 Heap Insert Solution
+04:21:14 Heap ExtractMax Intro
+04:29:42 Heap ExtractMax Solution
+04:47:39 Priority Queue Intro
+04:56:38 Priority Queue Pseudocode
+05:00:21 Priority Queue Solution
+05:09:43 BIG O of Binary Heaps
+22. Hash Tables
+05:18:37 Intro to Hash Tables
+05:24:27 More About Hash Tables
+05:28:59 Intro to Hash Functions
+05:35:10 Writing Our First Hash Function
+05:43:38 Improving Our Hash Function
+05:50:48 Handling Collisions
+05:54:48 Hash Table Set and Get
+05:58:51 Hash Table Set Solution
+06:04:05 Hash Table Get Solution
+06:10:48 Hash Table Keys and Values
+06:12:30 Hash Table Keys and Values Solution
+06:21:14 Hash Table Big O Complexity
+23. Graphs
+06:26:55 Intro to Graphs
+06:30:46 Uses for Graphs
+06:38:43 Types of Graphs
+06:47:32 Storing Graphs Adjacency Matrix
+06:51:30 Storing Graphs Adjacency List
+06:53:59 Adjacency Matrix Vs. List BIG O
+06:59:50 Add Vertex Intro
+07:02:00 Add Vertex Solution
+07:04:54 Add Edge Intro
+07:07:26 Add Edge Solution
+07:09:38 Remove Edge Intro
+07:11:14 Remove Edge Solution
+07:13:55 Remove Vertex Intro
+07:16:31 Remove Vertex Solution
+24. Graph Traversal
+07:21:05 Intro to Graph Traversal
+07:29:43 Depth First Graph Traversal
+07:38:14 DFS Recursive Intro
+07:45:42 DFS Recursive Solution
+07:58:27 DFS Iterative Intro
+08:02:05 DFS Iterative Solution
+08:10:49 Breadth First Graph Traversal
+08:13:49 BFS Intro
+08:16:16 BFS Solution
+25. Dijkstras Algorithm
+08:24:25 Intro to Dijkstras and Prerequisites
+08:27:07 Who was Dijkstra and what is his Algorithm
+08:36:07 Writing a Weighted Graph
+08:41:27 Walking through the Algorithm
+08:57:54 Introducing Our Simple Priority Queue
+09:01:42 Dijkstras Pseudo-Code
+09:06:11 Implementing Dijkstras Algorithm
+09:27:29 Upgrading the Priority Queue
+26. Dynamic Programming
+09:29:22 Intro to Dynamic Programming
+09:34:25 Overlapping Subproblems
+09:40:25 Optimal Substructure
+09:46:53 Writing A Recursive Solution
+09:53:36 Time Complexity of Our Solution
+09:57:48 The Problem With Our Solution
+10:01:27 Enter Memoization
+10:10:28 Time Complexity of Memoized Solution
+10:13:55 Tabulation A Bottom Up Approach

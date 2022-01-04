@@ -1,0 +1,12 @@
+
+068 Sorting-Slides
+https://cs.slides.com/colt_steele/elementary-sorting-algorithms
+
+068 Sorting-Animations-Website
+https://www.toptal.com/developers/sorting-algorithms
+
+069 Built-In-JS-Sort-Documentation
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort
+
+070 Visualgo-Sorting-Click-Bubble-Sort-
+https://visualgo.net/en/sorting
